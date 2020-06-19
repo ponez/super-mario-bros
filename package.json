@@ -1,0 +1,17 @@
+{
+  "name": "spoderman-supermario",
+  "version": "0.0.1",
+  "description": "A stupid game made by ponez",
+  "main": "index.js",
+  "dependencies": {
+    "melonjs": "^7.1.1",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ponez",
+  "license": "ISC"
+}
