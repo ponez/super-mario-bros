@@ -4,7 +4,6 @@
   "description": "A stupid game made by ponez",
   "main": "index.js",
   "dependencies": {
-    "melonjs": "^7.1.1",
     "serve": "^11.3.2"
   },
   "devDependencies": {},
