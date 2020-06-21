@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "serve ./public",
+    "start": "serve ./bin",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ponez",
