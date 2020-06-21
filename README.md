@@ -15,7 +15,12 @@ npm install
 ```
 
  i did used windows while making this so if you're using linux or whatever you might get capitalize problems, as you know windows is too retarded be case sensitive 
-
+ 
+ 
+ after all of this run
+```bash
+npm run start
+```
 
 
 ## Contributing
