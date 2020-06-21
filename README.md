@@ -1,5 +1,27 @@
-# super-mario-bros
-clone of super mario game in js 
+# Dfq is this ?
 
-#Using this shit like dfq is wrong with you going to try this cancer anyway?
-so if you want to run it just type " npm i " then " npm run start "
+Yet another stupid clone of super mario game in Js
+
+## Installation (like what is wrong with you going to try this cancer?)
+
+Use the package manager npm to fire up the game.
+
+```bash
+npm i
+```
+or
+```bash
+npm install
+```
+
+ i did used windows while making this so if you're using linux or whatever you might get capitalize problems, as you know windows is too retarded be case sensitive 
+
+
+
+## Contributing
+Pull requests are welcome. For major changes i don't really care do whatever you want
+
+
+
+## License
+[Ponez](Why-did-you-clicked-me-are-you-stupid-or-something?)
