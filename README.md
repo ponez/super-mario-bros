@@ -1,6 +1,7 @@
 # Dfq is this ?
 
 Yet another stupid clone of super mario game in Js
+![Alt Text](https://media.giphy.com/media/Vaq5Uzh9NXv3u6zPKk/giphy.gif)
 
 ## Installation (like what is wrong with you going to try this cancer?)
 
